@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: AnimationPlayableAsset(Clone)(Clone)
   m_EditorClassIdentifier: 
   m_Clip: {fileID: -203655887218126122, guid: 958c25e45a9134947894c3004b540a99, type: 3}
-  m_Position: {x: -0.10754855, y: -0.029901592, z: 0.26188454}
-  m_EulerAngles: {x: 0.02, y: -195.147, z: -0.003}
+  m_Position: {x: -0.025443101, y: -0.000000011752309, z: 0.28319564}
+  m_EulerAngles: {x: 0.02, y: -177.797, z: -0.019}
   m_UseTrackMatchFields: 1
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 0
@@ -56,8 +56,8 @@ MonoBehaviour:
   m_Name: AnimationPlayableAsset
   m_EditorClassIdentifier: 
   m_Clip: {fileID: -203655887218126122, guid: 958c25e45a9134947894c3004b540a99, type: 3}
-  m_Position: {x: 0.0000014097169, y: -0.03, z: 0.0000017699205}
-  m_EulerAngles: {x: -0.02, y: -17.14, z: 0}
+  m_Position: {x: 0, y: 0, z: 0}
+  m_EulerAngles: {x: 0, y: 0, z: 0}
   m_UseTrackMatchFields: 1
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 0
@@ -87,7 +87,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 2.0833333333333335
+    m_Start: 2.2666666666666666
     m_ClipIn: 0
     m_Asset: {fileID: -1969990620770291730}
     m_Duration: 2.2666666666666666
@@ -95,7 +95,7 @@ MonoBehaviour:
     m_ParentTrack: {fileID: 4183855412496197636}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 0.18333333333333313
+    m_BlendInDuration: -1
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
@@ -165,7 +165,7 @@ MonoBehaviour:
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: 0.18333333333333313
+    m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -192,25 +192,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -239,7 +221,7 @@ MonoBehaviour:
   m_EulerAngles: {x: 15.419, y: -74.878, z: -41.334}
   m_AvatarMask: {fileID: 0}
   m_ApplyAvatarMask: 1
-  m_TrackOffset: 0
+  m_TrackOffset: 1
   m_InfiniteClip: {fileID: 0}
   m_OpenClipOffsetRotation: {x: 0, y: 0, z: 0, w: 1}
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
